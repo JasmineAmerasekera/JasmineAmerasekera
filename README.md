@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JasmineAmerasekera
-- 👀 I’m interested in computational methods in human genetics and genomics
-- 🌱 I’m currently a first year PhD student at UCLA, rotating in Bogdan Pasaniuc's lab
-- 💞️ I’m looking to collaborate on projects relating to human health and disease
+- 🌱 I’m currently a 5th year PhD candidate in Steve Jacobsen's Lab at UCLA
 - 📫 Reach me at amerasekera@g.ucla.edu
 
 <!---
